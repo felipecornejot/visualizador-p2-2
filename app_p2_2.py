@@ -23,7 +23,7 @@ colors_for_charts = [color_primario_1_rgb, color_primario_2_rgb, color_sustrend_
 # --- Configuración de la página de Streamlit ---
 st.set_page_config(layout="wide")
 
-st.title('✨ Visualizador de Impactos - Proyecto P2)
+st.title('✨ Visualizador de Impactos - Proyecto P2.2)
 st.subheader('Recuperación de Descartes Hortofrutícola con propiedades herbicidas')
 st.markdown("""
     Ajusta los parámetros para explorar cómo las proyecciones de impacto ambiental y económico del proyecto
