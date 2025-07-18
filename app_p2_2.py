@@ -269,7 +269,7 @@ plt.close(fig_ingresos)
 st.markdown("---")
 st.markdown("### Información Adicional:")
 st.markdown(f"- **Estado de Avance y Recomendaciones:** El proyecto P2 se encuentra en una etapa avanzada de validación de laboratorio, con estudios que han confirmado el potencial herbicida de extractos obtenidos a partir de residuos hortofrutícolas, como el pelón de nuez. La evidencia científica preliminar respalda su capacidad fitotóxica selectiva, lo que constituye un insumo clave para el desarrollo de bioherbicidas comerciales en reemplazo de productos sintéticos de importación.")
-st.markdown(f"- **Recomendaciones:** Actualmente, se han identificado volúmenes relevantes de descartes disponibles a nivel regional y se han desarrollado protocolos para su procesamiento, extracción y estandarización de principios activos. Sin...")
+st.markdown(f"- **Recomendaciones:** Actualmente, se han identificado volúmenes relevantes de descartes disponibles a nivel regional y se han desarrollado protocolos para su procesamiento, extracción y estandarización de principios activos.")
 
 
 st.markdown("---")
